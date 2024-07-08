@@ -1,6 +1,7 @@
 # PortfolioProjects-SQL
 
 This repository contains SQL code and queries for a number of my data analysis portfolio projects.
+<br>
 
 ### Analyze Twitch Gaming Data
 **Code**: [analyze_twitch_gaming_data.sql](https://github.com/joeorefice/PortfolioProjects-SQL/blob/main/analyze_twitch_gaming_data.sql)
@@ -17,7 +18,7 @@ Dataset provided by Twitch Science Team - .csv files (800,000 rows) available fr
 
 **Skills**: data analysis, SQL table/database querying
 
-**Results**: identification of the following key variables;
+**Results**: identification of the following metrics;
 * unique games in stream table
 * unique channels in stream table
 * most popular games in stream table
@@ -25,3 +26,20 @@ Dataset provided by Twitch Science Team - .csv files (800,000 rows) available fr
 * list of players and their number of streamers
 * creation of genre and streaming hours columns in stream table
 * joining stream and chat tables
+
+<br>
+
+### Bytes of China database creation  
+**Code**: [bytes_of_china.sql](https://github.com/joeorefice/PortfolioProjects-SQL/blob/main/bytes_of_china.sql)
+
+**Description**: Creation of a multi-table database underpinning a website for fictional restaurant. 
+
+**Skills**: database creation, data analysis, SQL table/database querying
+
+**Results**: successful creation and population of the restaurant, address, dish, review and category tables, identification of the following metrics;
+* best review
+* dish name, price and category sorted by dish name and category
+* all spicy dishes with their prices and categories
+* all dishes and the categories they span
+* dishes that span more than one category 
+* highest rating
