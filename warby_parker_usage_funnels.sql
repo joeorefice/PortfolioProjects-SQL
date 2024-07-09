@@ -18,7 +18,7 @@ group by 1;
 
 
 /*
-Creating pseudo-table of user_id, is_home_try_on (prescence of user in home_try_on table), number_of_pairs, is_purchae (presence of user in purchase table)
+Creating pseudo-table of user_id, is_home_try_on (prescence of user in home_try_on table), number_of_pairs, is_purchase (presence of user in purchase table)
 */
 
 select
