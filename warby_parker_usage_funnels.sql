@@ -1,5 +1,11 @@
 /*
-Creating quiz funnel between questions, determining response percentages
+Creating quiz funnel between the following style quiz questions, determining response percentages;
+
+1. “What are you looking for?”
+2. “What’s your fit?”
+3. “Which shapes do you like?”
+4. “Which colors do you like?”
+5. “When was your last eye exam?”
 */
 
 select
@@ -10,22 +16,6 @@ from
   survey
 group by 1;
 
-
-/*
-Select all columns and the first 5 rows of purchase funnel (quiz, home_try_on and purchase tables). What columns do the tables have?
-*/
-
-select *
-from quiz
-limit 5;
-
-select *
-from home_try_on
-limit 5;
-
-select *
-from purchase
-limit 5;
 
 /*
 Creating pseudo-table of user_id, is_home_try_on (prescence of user in home_try_on table), number_of_pairs, is_purchae (presence of user in purchase table)
