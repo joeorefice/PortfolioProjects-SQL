@@ -43,3 +43,17 @@ Dataset provided by Twitch Science Team - .csv files (800,000 rows) available fr
 * all dishes and the categories they span
 * dishes that span more than one category 
 * highest rating
+
+<br>
+
+### Warby Parker usage funnels  
+**Code**: [warby_parker_usage_funnels.sql](https://github.com/joeorefice/PortfolioProjects-SQL/blob/main/warby_parker_usage_funnels.sql)
+
+**Description**: Analysis of different marketing funnels in order to calculate conversion rates for American glasses manufacturer and retailer Warby Parker  
+
+**Skills**: data analysis, SQL table/database querying
+
+**Results**: identification of the following metrics;
+* conversion percentage for each stage of style quiz
+* creation of is_home_try_on and is_purchase values, comparison of conversion rates from completing quiz to home try on, and home try on to making a purchase
+* calulating conversion rates for customers that tried on 3 pairs at home vs 5 pairs at home 
