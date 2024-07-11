@@ -6,7 +6,7 @@ This repository contains SQL code and queries for a number of data analysis port
 ### Analyze Twitch Gaming Data
 **Code**: [analyze_twitch_gaming_data.sql](https://github.com/joeorefice/PortfolioProjects-SQL/blob/main/analyze_twitch_gaming_data.sql)
 
-**Description**:  Data analysis project working with two tables containing Twitch users’ stream viewing data and chat room usage data. Dataset provided by Twitch Science Team - .csv files (800,000 rows) available from the following GitHub URL (https://github.com/Codecademy-Curriculum/Codecademy-Learn-SQL-from-Scratch/tree/master/Twitch)
+**Description**:  Data analysis of Twitch users’ stream viewing data and chat room usage data. Dataset provided by Twitch Science Team - .csv files (800,000 rows) available from the following GitHub URL (https://github.com/Codecademy-Curriculum/Codecademy-Learn-SQL-from-Scratch/tree/master/Twitch)
 
 **Skills**: data analysis, SQL table/database querying
 
@@ -41,7 +41,7 @@ This repository contains SQL code and queries for a number of data analysis port
 ### Warby Parker usage funnels  
 **Code**: [warby_parker_usage_funnels.sql](https://github.com/joeorefice/PortfolioProjects-SQL/blob/main/warby_parker_usage_funnels.sql)
 
-**Description**: Analysis of different marketing funnels in order to calculate conversion rates for American glasses manufacturer and retailer Warby Parker  
+**Description**: Data analysis of different marketing funnels in order to calculate conversion rates for American glasses manufacturer and retailer Warby Parker  
 
 **Skills**: data analysis, SQL table/database querying
 
@@ -55,7 +55,7 @@ This repository contains SQL code and queries for a number of data analysis port
 ### CoolShirts Marketing Attribution 
 **Code**: [coolshirts_marketing_attribution.sql](https://github.com/joeorefice/PortfolioProjects-SQL/blob/main/coolshirts_marketing_attribution.sql)
 
-**Description**: Analysis of first and last touch attribution for marketing campaigns by a fictional clothing retailer.
+**Description**: Data analysis of first and last touch attribution for marketing campaigns by a fictional clothing retailer.
 
 **Skills**: data analysis, SQL table/database querying
 
@@ -69,7 +69,7 @@ This repository contains SQL code and queries for a number of data analysis port
 ### The Best of Baseball Awards
 **Code**: [best_of_baseball_awards.sql](https://github.com/joeorefice/PortfolioProjects-SQL/blob/main/best_of_baseball_awards.sql)
 
-**Description**: Analysis of baseball statistics database. Dataset provided by Sean Lahman, available from [SeanLahman.com](http://www.seanlahman.com/)
+**Description**: Data analysis of baseball statistics database. Dataset provided by Sean Lahman, available from [SeanLahman.com](http://www.seanlahman.com/)
 
 **Skills**: data analysis, SQL table/database querying
 
